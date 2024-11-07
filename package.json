@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "diamnet-sdk": "^1.0.2",
+    "eventsource": "^2.0.2",
+    "node-fetch": "^3.3.2"
+  }
+}
